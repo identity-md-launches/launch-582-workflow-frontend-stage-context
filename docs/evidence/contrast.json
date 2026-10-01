@@ -1,0 +1,1496 @@
+{
+  "measuredAt": "2026-10-01T19:40:31.484Z",
+  "browser": "Chromium 141",
+  "method": "Rendered computed foreground colors and alpha-composited ancestor background colors; WCAG relative luminance formula. Decorative glyph excluded; opaque jar label measured over its own surface.",
+  "measurements": [
+    {
+      "selector": ".help",
+      "index": 0,
+      "text": "Big or small, it all means something.",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "14px",
+      "ratio": 5.793
+    },
+    {
+      "selector": ".help",
+      "index": 1,
+      "text": "The latest 20 notes, straight from the chain. Scroll to read",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".help",
+      "index": 2,
+      "text": "Tip Jar · TIPS · Fixed supply, no future minting",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".help",
+      "index": 3,
+      "text": "TIPS is separate from the jar. Tips are sent in ETH; holding",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".help",
+      "index": 4,
+      "text": "Trade in the deployed Uniswap v4 pool. Review the quote and ",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "14px",
+      "ratio": 5.793
+    },
+    {
+      "selector": ".help",
+      "index": 5,
+      "text": "Transfer tokens directly to another wallet. Check the recipi",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "14px",
+      "ratio": 5.793
+    },
+    {
+      "selector": ".help",
+      "index": 6,
+      "text": "The jar has no application fees. Its owner is fixed. Every t",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".fine",
+      "index": 0,
+      "text": "Balance: 10 ETH",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".fine",
+      "index": 1,
+      "text": "Sepolia test ETH · USD value unavailable",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "12px",
+      "ratio": 5.793
+    },
+    {
+      "selector": ".fine",
+      "index": 2,
+      "text": "Your note and wallet address will be public and permanent. U",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "12px",
+      "ratio": 5.793
+    },
+    {
+      "selector": ".fine",
+      "index": 3,
+      "text": "Sepolia testnet. No real-world payment is required.",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "12px",
+      "ratio": 5.793
+    },
+    {
+      "selector": ".fine",
+      "index": 4,
+      "text": "Scanned blocks 11,823,840–11,824,000. Recent events refresh ",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".fine",
+      "index": 5,
+      "text": "Supply: 1000000 TIPS",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".fine",
+      "index": 6,
+      "text": "Spend ETH. Slippage: 0–5%. USD value unavailable. Pool fee: ",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "12px",
+      "ratio": 5.793
+    },
+    {
+      "selector": ".fine",
+      "index": 7,
+      "text": "Your balance: 1000 TIPS · USD value unavailable",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "12px",
+      "ratio": 5.793
+    },
+    {
+      "selector": ".fine",
+      "index": 8,
+      "text": "Send 0 TIPS to the recipient above, plus network gas.",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "12px",
+      "ratio": 5.793
+    },
+    {
+      "selector": ".fine",
+      "index": 9,
+      "text": "ABI hashes and contract presence checked. State at block 11,",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".jar-label",
+      "index": 0,
+      "text": "A small act of kindness",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "12px",
+      "ratio": 11.462
+    },
+    {
+      "selector": ".tip-message",
+      "index": 0,
+      "text": "<img src=x onerror=alert(1)> & hello",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 1,
+      "text": "Tip message 01",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 2,
+      "text": "Tip message 02",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 3,
+      "text": "Tip message 03",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 4,
+      "text": "Tip message 04",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 5,
+      "text": "Tip message 05",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 6,
+      "text": "Tip message 06",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 7,
+      "text": "Tip message 07",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 8,
+      "text": "Tip message 08",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 9,
+      "text": "Tip message 09",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 10,
+      "text": "Tip message 10",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 11,
+      "text": "Tip message 11",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 12,
+      "text": "Tip message 12",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 13,
+      "text": "Tip message 13",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 14,
+      "text": "Tip message 14",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 15,
+      "text": "Tip message 15",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 16,
+      "text": "Tip message 16",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 17,
+      "text": "Tip message 17",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 18,
+      "text": "Tip message 18",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-message",
+      "index": 19,
+      "text": "Tip message 19",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 0,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 1,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 2,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 3,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 4,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 5,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 6,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 7,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 8,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 9,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 10,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 11,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 12,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 13,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 14,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 15,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 16,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 17,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 18,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-meta",
+      "index": 19,
+      "text": "Oct 1, 07:40 PM UTC · View tip ↗",
+      "color": "rgb(96, 103, 92)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "12px",
+      "ratio": 5.4
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 0,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 1,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 2,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 3,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 4,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 5,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 6,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 7,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 8,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 9,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 10,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 11,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 12,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 13,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 14,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 15,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 16,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 17,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 18,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-amount",
+      "index": 19,
+      "text": "+0.01 ETH",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 0,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 1,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 2,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 3,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 4,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 5,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 6,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 7,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 8,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 9,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 10,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 11,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 12,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 13,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 14,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 15,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 16,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 17,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 18,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": ".tip-sender",
+      "index": 19,
+      "text": "0x2222…2222Copy",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "14px",
+      "ratio": 10.683
+    },
+    {
+      "selector": "button.primary",
+      "index": 0,
+      "text": "Send tip ↗",
+      "color": "rgb(255, 254, 250)",
+      "background": [
+        24,
+        63,
+        53
+      ],
+      "fontSize": "16px",
+      "ratio": 11.553
+    },
+    {
+      "selector": "label",
+      "index": 0,
+      "text": "Tip amount (ETH)",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "14px",
+      "ratio": 11.462
+    },
+    {
+      "selector": "label",
+      "index": 1,
+      "text": "Message (optional)",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "14px",
+      "ratio": 11.462
+    },
+    {
+      "selector": "label",
+      "index": 2,
+      "text": "Direction",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "14px",
+      "ratio": 11.462
+    },
+    {
+      "selector": "label",
+      "index": 3,
+      "text": "Swap amount",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "14px",
+      "ratio": 11.462
+    },
+    {
+      "selector": "label",
+      "index": 4,
+      "text": "Slippage (%)",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "14px",
+      "ratio": 11.462
+    },
+    {
+      "selector": "label",
+      "index": 5,
+      "text": "Recipient address",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "14px",
+      "ratio": 11.462
+    },
+    {
+      "selector": "label",
+      "index": 6,
+      "text": "Amount (TIPS)",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "14px",
+      "ratio": 11.462
+    },
+    {
+      "selector": "input",
+      "index": 0,
+      "text": "",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "24px",
+      "ratio": 11.462
+    },
+    {
+      "selector": "input",
+      "index": 1,
+      "text": "",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "16px",
+      "ratio": 11.462
+    },
+    {
+      "selector": "input",
+      "index": 2,
+      "text": "",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "16px",
+      "ratio": 11.462
+    },
+    {
+      "selector": "input",
+      "index": 3,
+      "text": "",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "16px",
+      "ratio": 11.462
+    },
+    {
+      "selector": "input",
+      "index": 4,
+      "text": "",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        255,
+        254,
+        250
+      ],
+      "fontSize": "16px",
+      "ratio": 11.462
+    },
+    {
+      "selector": "body",
+      "index": 0,
+      "text": "Skip to contentTip Jar↗Leave a tipRecent kindnessTIPS tokenS",
+      "color": "rgb(36, 62, 53)",
+      "background": [
+        247,
+        246,
+        240
+      ],
+      "fontSize": "16px",
+      "ratio": 10.683
+    }
+  ],
+  "focus": {
+    "visible": true,
+    "color": "rgb(56, 108, 155)",
+    "width": "3px",
+    "offset": "3px",
+    "style": "solid",
+    "borderColor": "rgb(129, 140, 124)",
+    "inputSurface": "rgb(255, 254, 250)",
+    "adjacentSurface": "rgb(255, 254, 250)",
+    "pageSurface": "rgb(247, 246, 240)",
+    "contrast": {
+      "surface": 5.496,
+      "page": 5.122,
+      "inputBorder": 3.482
+    }
+  },
+  "reducedMotion": {
+    "mediaMatches": true,
+    "transitionDuration": "0s",
+    "animationDuration": "0s"
+  },
+  "reflow": [
+    {
+      "viewport": 320,
+      "document": 320,
+      "overflowing": false
+    },
+    {
+      "viewport": 768,
+      "document": 768,
+      "overflowing": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+Worker execution record (summary of observed terminal results, not an independent verifier)
+Date: 2026-10-01 UTC
+Directory: web/
+Command: PLAYWRIGHT_HOST_PLATFORM_OVERRIDE=ubuntu24.04-x64 PLAYWRIGHT_BROWSERS_PATH=../test/scratch/playwright-browsers npm test
+Production path: http://127.0.0.1:4175/preview/
+Manifest SHA-256: 83bfd48beb890968752d1045b14ae3f071f127f8cee96b19551c91d307e98eb2
+Terminal result: 26 passed (30.7s)
+Composition: 13 interaction/a11y browser cases, 1 visual browser case, 9 history cases, 3 input-validation cases.
+
+Supplemental command after expanding only the contrast test samples:
+PLAYWRIGHT_HOST_PLATFORM_OVERRIDE=ubuntu24.04-x64 PLAYWRIGHT_BROWSERS_PATH=../test/scratch/playwright-browsers npx playwright test tests/visual.spec.ts
+Terminal result: 1 passed (6.4s)
+No application-source or export changes between these runs.
+
+Optional live browser command:
+PLAYWRIGHT_HOST_PLATFORM_OVERRIDE=ubuntu24.04-x64 PLAYWRIGHT_BROWSERS_PATH=../test/scratch/playwright-browsers node tests/live-readonly.mjs
+Exit: 0; report status: passed; live block: 11823961; no wallet/sign/send RPC methods.
+
+Earlier setup iterations: default Chromium install unsupported on Ubuntu26.04; resolved via Ubuntu24.04 build override. Port4173 was occupied; dedicated static server moved to4175. A first browser run was11/12 because one manifest fetch coincided with a rebuild; the stable rerun passed15/15, and the expanded final frozen-export run passed26/26. These earlier results are not counted as final passes.

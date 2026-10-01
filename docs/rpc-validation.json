@@ -1,0 +1,69 @@
+{
+  "checkedAt": "2026-10-01T19:21:04.586Z",
+  "expectedChainId": 11155111,
+  "sourceCommit": "34bc1640f8c0e6f1c6bdcb69d191dd664f74eb5c",
+  "transactionBroadcast": false,
+  "checks": [
+    {
+      "url": "https://ethereum-sepolia-rpc.publicnode.com",
+      "passed": true,
+      "chainId": 11155111,
+      "blockNumber": 11823862,
+      "contracts": [
+        {
+          "name": "LaunchToken",
+          "address": "0x0b0e774aaff5ed479d9ff64cfa89b14dd9ae5646",
+          "codeBytes": 1722,
+          "codeSha256": "34c88e2345fc1b93f60ace20e3933e251f0bff4149e279544ba3a6a72459062f"
+        },
+        {
+          "name": "TipJar",
+          "address": "0x47dfd7e0d01b2e39cda0718a1bd5925b8a067fa5",
+          "codeBytes": 1941,
+          "codeSha256": "7478266c7b8fa861fe984647a00f0c0cc7afe078bec24dfb25a7ee2a841fac02"
+        }
+      ]
+    },
+    {
+      "url": "https://rpc.sepolia.ethpandaops.io",
+      "passed": true,
+      "chainId": 11155111,
+      "blockNumber": 11823862,
+      "contracts": [
+        {
+          "name": "LaunchToken",
+          "address": "0x0b0e774aaff5ed479d9ff64cfa89b14dd9ae5646",
+          "codeBytes": 1722,
+          "codeSha256": "34c88e2345fc1b93f60ace20e3933e251f0bff4149e279544ba3a6a72459062f"
+        },
+        {
+          "name": "TipJar",
+          "address": "0x47dfd7e0d01b2e39cda0718a1bd5925b8a067fa5",
+          "codeBytes": 1941,
+          "codeSha256": "7478266c7b8fa861fe984647a00f0c0cc7afe078bec24dfb25a7ee2a841fac02"
+        }
+      ]
+    },
+    {
+      "url": "https://sepolia.rpc.sentio.xyz",
+      "passed": true,
+      "chainId": 11155111,
+      "blockNumber": 11823861,
+      "contracts": [
+        {
+          "name": "LaunchToken",
+          "address": "0x0b0e774aaff5ed479d9ff64cfa89b14dd9ae5646",
+          "codeBytes": 1722,
+          "codeSha256": "34c88e2345fc1b93f60ace20e3933e251f0bff4149e279544ba3a6a72459062f"
+        },
+        {
+          "name": "TipJar",
+          "address": "0x47dfd7e0d01b2e39cda0718a1bd5925b8a067fa5",
+          "codeBytes": 1941,
+          "codeSha256": "7478266c7b8fa861fe984647a00f0c0cc7afe078bec24dfb25a7ee2a841fac02"
+        }
+      ]
+    }
+  ],
+  "passed": true
+}

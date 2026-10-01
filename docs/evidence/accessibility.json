@@ -1,0 +1,323 @@
+{
+  "testedAt": "2026-10-01T19:39:19.774Z",
+  "url": "http://127.0.0.1:4175/preview/",
+  "engine": {
+    "name": "axe-core",
+    "version": "4.13.0"
+  },
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "state": "Connected mocked visitor; swap and transfer controls expanded",
+  "tags": [
+    "wcag2a",
+    "wcag2aa",
+    "wcag21aa"
+  ],
+  "passes": [
+    "aria-allowed-attr",
+    "aria-conditional-attr",
+    "aria-deprecated-role",
+    "aria-hidden-body",
+    "aria-hidden-focus",
+    "aria-prohibited-attr",
+    "aria-required-attr",
+    "aria-roles",
+    "aria-valid-attr-value",
+    "aria-valid-attr",
+    "autocomplete-valid",
+    "avoid-inline-spacing",
+    "button-name",
+    "bypass",
+    "color-contrast",
+    "document-title",
+    "duplicate-id-aria",
+    "form-field-multiple-labels",
+    "html-has-lang",
+    "html-lang-valid",
+    "label",
+    "link-in-text-block",
+    "link-name",
+    "list",
+    "listitem",
+    "meta-viewport",
+    "nested-interactive",
+    "scrollable-region-focusable",
+    "select-name",
+    "summary-name"
+  ],
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "nodes": [
+        {
+          "target": [
+            ".jar-label"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+        },
+        {
+          "target": [
+            "li:nth-child(14) > .tip-top > .tip-sender > .address > bdi > a[target=\"_blank\"][rel=\"noreferrer\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(14) > .tip-top > .tip-amount"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(14) > .tip-message[data-testid=\"tip-message\"][dir=\"auto\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(14) > .tip-meta"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element content is too short to determine if it is actual text content"
+        },
+        {
+          "target": [
+            "li:nth-child(14) > .tip-meta > time"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(14) > .tip-meta > a[target=\"_blank\"][rel=\"noreferrer\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(15) > .tip-top > .tip-sender > .address > bdi > a[target=\"_blank\"][rel=\"noreferrer\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(15) > .tip-top > .tip-amount"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(15) > .tip-message[data-testid=\"tip-message\"][dir=\"auto\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(15) > .tip-meta"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element content is too short to determine if it is actual text content"
+        },
+        {
+          "target": [
+            "li:nth-child(15) > .tip-meta > time"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(15) > .tip-meta > a[target=\"_blank\"][rel=\"noreferrer\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(16) > .tip-top > .tip-sender > .address > bdi > a[target=\"_blank\"][rel=\"noreferrer\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(16) > .tip-top > .tip-amount"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(16) > .tip-message[data-testid=\"tip-message\"][dir=\"auto\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(16) > .tip-meta"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element content is too short to determine if it is actual text content"
+        },
+        {
+          "target": [
+            "li:nth-child(16) > .tip-meta > time"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(16) > .tip-meta > a[target=\"_blank\"][rel=\"noreferrer\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(17) > .tip-top > .tip-sender > .address > bdi > a[target=\"_blank\"][rel=\"noreferrer\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(17) > .tip-top > .tip-amount"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(17) > .tip-message[data-testid=\"tip-message\"][dir=\"auto\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(17) > .tip-meta"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element content is too short to determine if it is actual text content"
+        },
+        {
+          "target": [
+            "li:nth-child(17) > .tip-meta > time"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(17) > .tip-meta > a[target=\"_blank\"][rel=\"noreferrer\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(18) > .tip-top > .tip-sender > .address > bdi > a[target=\"_blank\"][rel=\"noreferrer\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(18) > .tip-top > .tip-amount"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(18) > .tip-message[data-testid=\"tip-message\"][dir=\"auto\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(18) > .tip-meta"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element content is too short to determine if it is actual text content"
+        },
+        {
+          "target": [
+            "li:nth-child(18) > .tip-meta > time"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(18) > .tip-meta > a[target=\"_blank\"][rel=\"noreferrer\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(19) > .tip-top > .tip-sender > .address > bdi > a[target=\"_blank\"][rel=\"noreferrer\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(19) > .tip-top > .tip-amount"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(19) > .tip-message[data-testid=\"tip-message\"][dir=\"auto\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(19) > .tip-meta"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element content is too short to determine if it is actual text content"
+        },
+        {
+          "target": [
+            "li:nth-child(19) > .tip-meta > time"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(19) > .tip-meta > a[target=\"_blank\"][rel=\"noreferrer\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(20) > .tip-top > .tip-sender > .address > bdi > a[target=\"_blank\"][rel=\"noreferrer\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(20) > .tip-top > .tip-amount"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(20) > .tip-message[data-testid=\"tip-message\"][dir=\"auto\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(20) > .tip-meta"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element content is too short to determine if it is actual text content"
+        },
+        {
+          "target": [
+            "li:nth-child(20) > .tip-meta > time"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "li:nth-child(20) > .tip-meta > a[target=\"_blank\"][rel=\"noreferrer\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it's partially obscured by another element"
+        },
+        {
+          "target": [
+            "p:nth-child(1) > span[aria-hidden=\"true\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element content contains only non-text characters"
+        }
+      ]
+    }
+  ],
+  "violations": []
+}

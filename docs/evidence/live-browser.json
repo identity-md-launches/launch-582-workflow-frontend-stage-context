@@ -1,0 +1,54 @@
+{
+  "checkedAt": "2026-10-01T19:40:52.999Z",
+  "mode": "Live read-only public RPC; no wallet injected; no transactions",
+  "url": "http://127.0.0.1:4175/preview/",
+  "status": "passed",
+  "statistics": [
+    "Total kindness, all time0 ETHLifetime tips · never reset by withdrawals",
+    "Currently in the jar0 ETHAvailable for the owner to withdraw",
+    "Straight to the jar100% of every tipNo application fees · network gas applies"
+  ],
+  "deployment": "Open by design\n\nThe jar has no application fees. Its owner is fixed. Every tip and withdrawal is public.\n\nTip jar contract\n0x47dFD7e0d01B2e39cdA0718A1BD5925B8A067FA5\nCopy\nTIPS token contract\n0x0b0E774AaFF5ED479d9FF64cfA89b14Dd9AE5646\nCopy\nJar owner\n0x09EC38170E94532EDdB57c69DfC4F1fDCD0d4a60\nCopy\nDeployment\n\nABI hashes and contract presence checked. State at block 11,823,961. View deployment manifest",
+  "recentTips": "Recent kindness\nRefresh tips\n\nThe latest 20 notes, straight from the chain. Scroll to read more.\n\n♡\nThe first kind word could be yours.\n\nLeave a tip and a note to start the story.\n\nScanned blocks 11,823,840–11,823,961. Recent events refresh every 15 seconds and may change before finality.",
+  "overflowDesktop": false,
+  "overflowMobile": false,
+  "errors": [],
+  "responses": [
+    {
+      "url": "http://127.0.0.1:4175/preview/",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4175/preview/assets/index-DjSOPOzr.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4175/preview/assets/index-BD9y0vwb.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4175/preview/imd-deployment.json",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4175/preview/abi/LaunchToken.json",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4175/preview/abi/TipJar.json",
+      "status": 200
+    },
+    {
+      "url": "https://ethereum-sepolia-rpc.publicnode.com/",
+      "status": 200
+    }
+  ],
+  "rpcMethods": [
+    "eth_blockNumber",
+    "eth_call",
+    "eth_chainId",
+    "eth_getBalance",
+    "eth_getCode",
+    "eth_getLogs"
+  ]
+}
